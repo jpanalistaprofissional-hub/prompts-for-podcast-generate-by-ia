@@ -19,7 +19,7 @@ AUDIO DO PRIMEIRO EPISÓDIO DO PODCAST:
 </p>
 
 <div align="center">
-            <audio controls> <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio> </audio>
+            <audio controls> <audio src="./output/podcast_editado.MP3" controls title="Podcast editado"></audio> </audio>
 </div>
 
 # Projeto Podcast MIO QUE SILÍCIO Gerado por I.A.s
